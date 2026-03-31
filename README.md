@@ -30,7 +30,7 @@ I'm a **Computer Science** graduate currently working as a **Technical Support E
 | [Pokedex-Search-Application](https://github.com/guustavomc/Pokedex-Search-Application) | Pokédex search app consuming PokéAPI | Java |
 | [Library-Management-Application](https://github.com/guustavomc/Library-Management-Application) | Library management system built for Python study | Python |
 | [Premier-League-Application](https://github.com/guustavomc/Premier-League-Application) | Premier League data application | Java |
-| [Library-Management-Application](https://github.com/guustavomc/Drawer-Organizer-Builder) | Tool for automatic STL file generation | Python |
+| [Drawer-Organizer-Builder](https://github.com/guustavomc/Drawer-Organizer-Builder) | Tool for automatic STL file generation | Python |
 
 ## What I'm up to
 
