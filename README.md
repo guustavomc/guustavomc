@@ -32,7 +32,7 @@ I'm a **Computer Science** graduate currently working as a **Technical Support E
 | [Premier-League-Application](https://github.com/guustavomc/Premier-League-Application) | Premier League data application | Java |
 | [Drawer-Organizer-Builder](https://github.com/guustavomc/Drawer-Organizer-Builder) | Tool for automatic STL file generation | Python |
 | [Insult-as-a-Service](https://github.com/guustavomc/Insult-as-a-Service) | AI application for custom Insult generation | Java + Python |
-| [Procedural-Dungeon-Generator]([https://github.com/guustavomc/Insult-as-a-Service](https://github.com/guustavomc/Procedural-Dungeon-Generator)) | Tool for Dungeon creation | Python |
+| [Procedural-Dungeon-Generator](https://github.com/guustavomc/Procedural-Dungeon-Generator) | Tool for Dungeon creation | Python |
 
 
 ## What I'm up to
