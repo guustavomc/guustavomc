@@ -37,6 +37,7 @@ I'm a **Computer Science** graduate currently working as a **Technical Support E
 ## Future Projects
 
 | Project | What it does | Stack |
+|---------|-------------|-------|
 | [Home-Monitoring-Hub-Backend](https://github.com/guustavomc/Home-Monitoring-Hub-Backend) | Backend for Automation Hub | Java |
 | [Real-Time-Livestock-Monitor-With-EdgeAI](https://github.com/guustavomc/Real-Time-Livestock-Monitor-With-EdgeAI) | AI project | Python |
 | [ESP32-Bidirectional-Game-Controller-Bridge](https://github.com/guustavomc/ESP32-Bidirectional-Game-Controller-Bridge) | Bidirectional hardware-software joystick | C++ |
